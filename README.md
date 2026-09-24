@@ -1,32 +1,5 @@
 # 🧪 ParaBank Automation Framework
 
-```{=html}
-<p align="center">
-```
-`<img src="./assets/parabank-automation.gif" alt="ParaBank Automation" width="100%">`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<strong>`{=html}Web UI Automation Framework built with Selenium
-WebDriver, Java, TestNG and Maven`</strong>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">`{=html}
-`<img src="https://img.shields.io/badge/Selenium-4.x-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">`{=html}
-`<img src="https://img.shields.io/badge/TestNG-7.x-FF6C37?style=for-the-badge" alt="TestNG">`{=html}
-`<img src="https://img.shields.io/badge/Maven-Build-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">`{=html}
-`<img src="https://img.shields.io/badge/Automation-UI%20Testing-2563EB?style=for-the-badge" alt="Automation">`{=html}
-```{=html}
-</p>
-```
-
 ------------------------------------------------------------------------
 
 ## 📌 Project Overview
